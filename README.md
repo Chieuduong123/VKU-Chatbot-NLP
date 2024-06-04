@@ -16,6 +16,7 @@ python app.py
 ## Training model Chatbot
 
 run step by step "training-model-chatbot.ipynb"
+
 python app.py
 
 
